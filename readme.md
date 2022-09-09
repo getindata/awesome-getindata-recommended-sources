@@ -11,10 +11,11 @@
 
 ## Podcasts
 
-- [Radio DaTa](https://shows.acast.com/radio-data) - journeys of data ecosystems in different companies and general data-related eposodes by different hosts from [GetInData](https://getindata.com)
+- [Radio DaTa](https://shows.acast.com/radio-data) - conversations with invited guests how data, cloud, analytics, and AI/ML/BI are used in their companies and general data-related eposodes by different hosts from [GetInData](https://getindata.com)
 - [Data Engineering Podcast](https://www.dataengineeringpodcast.com/) - interviews with creators of data products and companies using these, sometimes panel discussions, hosted by Tobias Macey, 2 episodes per week
 - [Kubernetes Podcast](https://kubernetespodcast.com/) - news from k8s world, followed by interviews with experts from the field
 - [Stack Overflow Podcast](https://stackoverflow.blog/podcast/) - trening topics from IT world, including a lot of updates on AI
+- [The Artificial Intelligence After Work Podcast](https://aiawpodcast.com/) - a live streamed long format conversation aiming to demystify data innovation and AI with invited guests from various companies
 
 
 ## Newsletters
