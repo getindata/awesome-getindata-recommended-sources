@@ -9,7 +9,8 @@
 - [Newsletters](#newsletters)
 - [Youtube](#youtube)
 - [Books](#books)
-- [LearningPlatforms](#learningplatforms)
+- [LearningPlatforms](#learning platforms)
+- [Blogs](#blogs)
 
 
 ## Podcasts
