@@ -9,7 +9,7 @@
 - [Newsletters](#newsletters)
 - [Youtube](#youtube)
 - [Books](#books)
-- [LearningPlatforms](#learning%20platforms)
+- [LearningPlatforms](#learningplatforms)
 - [Blogs](#blogs)
 
 
@@ -37,7 +37,7 @@
 - [thenewboston](https://www.youtube.com/user/thenewboston) Around many technologies, frameworks and languages.
 
 
-## Learning platforms
+## LearningPlatforms
 - [ACloudGuru](https://acloudguru.com/) - Cloud, K8s, Linux. Sandbox environments is a plus.
 
 ## Books
