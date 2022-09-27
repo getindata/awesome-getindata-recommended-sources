@@ -55,18 +55,17 @@
 ## Blogs
 List of People to follow recommended by Benjamin Rogojan, original link https://www.linkedin.com/feed/update/urn:li:activity:6979169467838652416?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6979169467838652416%29
 
-- [Chip Huyen](https://huyenchip.com/blog/)
-- [Vicki Boykis](https://vickiboykis.com/)
+- [Chip Huyen](https://huyenchip.com/blog/) Machine learning, data and AI.
+- [Vicki Boykis](https://vickiboykis.com/) Data engineering and cloud
 - [Ananth P](https://www.dataengineeringweekly.com/)
-- [Chris Riccomini](https://cnr.sh/essays/)
-- [Christophe Blefari](https://www.blef.fr/author/christopheblefari/)
-- [Alexey Grigorev](https://datatalks.club/)
-- [Sarah Krasnik](https://sarahsnewsletter.substack.com/)
-- [Chad Sanderson](https://dataproducts.substack.com/)
-- [Benn Stancil](https://benn.substack.com/)
-- [Barr Moses](https://barrmoses.medium.com/)
-- [Daniel Beach](https://www.confessionsofadataguy.com/)
-- [Joseph M](https://www.startdataengineering.com/)
+- [Chris Riccomini](https://cnr.sh/essays/) Data engineering
+- [Christophe Blefari](https://www.blef.fr/author/christopheblefari/) Updates arround the data engineering area.
+- [Alexey Grigorev](https://datatalks.club/) Everything around data space, you can subscribe on newsletter.
+- [Chad Sanderson](https://dataproducts.substack.com/) Brandly new, data modelling, data quality etc. You can subscribe to newsletter.
+- [Benn Stancil](https://benn.substack.com/) Data engineering and data area, you can subscribe to newsletter.
+- [Barr Moses](https://barrmoses.medium.com/) Data stuff, data lineage, data quality, data as a product etc.
+- [Daniel Beach](https://www.confessionsofadataguy.com/) Data engineering stuff but broadly, even geospatial is included.
+- [Joseph M](https://www.startdataengineering.com/) Data engineering but mainly explaining concepts, good starting point.
 
 ## Contribute
 
