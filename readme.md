@@ -56,9 +56,9 @@
 List of People to follow recommended by Benjamin Rogojan, original link https://www.linkedin.com/feed/update/urn:li:activity:6979169467838652416?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6979169467838652416%29
 
 - [Chip Huyen](https://huyenchip.com/blog/) Machine learning, data and AI.
-- [Vicki Boykis](https://vickiboykis.com/) Data engineering and cloud
-- [Ananth P](https://www.dataengineeringweekly.com/)
-- [Chris Riccomini](https://cnr.sh/essays/) Data engineering
+- [Vicki Boykis](https://vickiboykis.com/) Data engineering and cloud.
+- [Ananth P](https://www.dataengineeringweekly.com/) Data engineering.
+- [Chris Riccomini](https://cnr.sh/essays/) Data engineering.
 - [Christophe Blefari](https://www.blef.fr/author/christopheblefari/) Updates arround the data engineering area.
 - [Alexey Grigorev](https://datatalks.club/) Everything around data space, you can subscribe on newsletter.
 - [Chad Sanderson](https://dataproducts.substack.com/) Brandly new, data modelling, data quality etc. You can subscribe to newsletter.
